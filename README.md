@@ -12,9 +12,11 @@
 
 ## 二、系统增强与工具软件
 - Clash Verge
+- DiskGenius
 - Duplicate File Finder Plus
 - FastStone Image Viewer
 - FirPE
+- GeekUninstaller
 - Internet Download Manager
 - Listary
 - MacType
@@ -23,11 +25,13 @@
 - MuMu模拟器
 - NaNaZip
 - Notepad--
+- OfficeToolPlus
 - PDFgear
 - PotPlayer
 - PowerShell 7-x64
 - PowerToys
 - qBitTorrent
+- Rufus
 - Snipaste
 - StartAllBack
 - SumatraPDF
