@@ -1,0 +1,2 @@
+# best_software_list_personally
+个人装机必备软件
