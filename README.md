@@ -1,6 +1,5 @@
-# best_software_list_personally
-个人装机必备软件
-# 软件清单
+### 个人装机必备软件
+
 
 ## 一、系统基础驱动或运行库
 - Microsoft .NET SDK 5/6/7/8/9/10 (x64/x86)
@@ -42,7 +41,7 @@
 - Wallhaven
 - Winhance
 - Wise Registry Cleaner
-- 图吧工具箱202601
+- 图吧工具箱
 - 微信输入法
 - 火绒安全软件
 - 火绒应用商店
