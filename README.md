@@ -75,6 +75,6 @@
 - Xmind
 
 ## 六、通讯软件
-- QQ 1.55 GB
+- QQ
 - Telegram Desktop
-- 微信 848 MB
+- 微信
